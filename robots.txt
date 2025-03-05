@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://thecityzensnews.github.io/update/
